@@ -1,14 +1,14 @@
 
 /*
-
-ASSIGNMENT 01: TRANSFORMATIONS OF TRIANGLE
 ------------------------------------------
-Group Member:
-----------------------------------------
-1. Md. Saifuddin Tipu   54398
-2. Rakibul Islam 	    55276
-3. Md Shahriar Karim    49547
-----------------------------------------
+TRANSFORMATIONS OF TRIANGLE
+------------------------------------------
+Copyright:
+------------------------------------------
+Md. Saifuddin Tipu
+Dept of Software Engineering,
+University Malaysia Sarawak
+------------------------------------------
 */
 
 #include <stdio.h>
