@@ -1,18 +1,18 @@
 # Transformations-of-Triangle
 OpenGL and GLUT program that display a 2D triangle and a Cartesian graph (𝑥, 𝑦) (use -10 and +10 as the min and max value for both 𝑥 and 𝑦-axis).
 
-# TRANSFORMATIONS OF TRIANGLE
+TRANSFORMATIONS OF TRIANGLE
 --------------------------------------------------------------------------
-# Copyright: MD SAIFUDDIN TIPU
-# Department of Software Engineering, University Malaysia Sarawak   
+Copyright: MD SAIFUDDIN TIPU
+Department of Software Engineering, University Malaysia Sarawak   
 
-# Instructions:
+Instructions:
 ----------------
 Enter co-ordinates for vertex 3 times...
 input will have to enter like 0 2
 		     2 0
 		    -2 0
-# Enter your choice:
+Enter your choice:
 
 |1. Translation
 |2. Scaling
@@ -42,7 +42,7 @@ The Terminal ask that we want to continue the session or not...
 If Yes type 1,
 if No type 2.
 
-# Color For Triangle:
+Color For Triangle:
 --------------------------
 Original Triangle: 	RED COLOR
 Translated Triangle:  GREEN COLOR
